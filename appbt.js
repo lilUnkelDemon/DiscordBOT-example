@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] })
 
 
-bot_secret_token = "YOUR DISCORD TOKEN"
+bot_secret_token = "YOUR DISCORD TOKEN"   //replace your discord bot tokens
 
 const d = new Date();
 
